@@ -1,1 +1,2 @@
 # My_React_Project
+The Whiteboard Application is a single-user web application built with React. It provides a simple and intuitive interface for drawing, sketching, and taking notes on a digital canvas. This project highlights skills in React development, state management, and user interface design, ensuring a smooth and responsive user experience. Ideal for personal brainstorming and creative activities.
